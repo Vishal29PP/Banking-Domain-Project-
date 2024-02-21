@@ -31,14 +31,19 @@ To show geographic data with its categories like city, country, state, and regio
 Step 1: We will use Card visual to display the count of the customers and the total balance amount. Drag and drop the "Count of Customer" and "Sum of Balance Amount" fields onto the card visual in the report.
 
 Step 2: We will use the slicer to filter customer names in the report. Add the "Customer Names" field to the slicer and use it to filter the report by customer name.
+![Customers](https://github.com/Vishal29PP/Test/assets/160697627/be45f227-6e30-4764-9aa6-3c30bb7bfe79)
            
 Step 3: We will use Pie Chart to display the account types and their total balance amount. Add the "Account Type" field to the legend and the "Sum of Balance Amount" field to the values in the pie chart.
+![Pie Chart](https://github.com/Vishal29PP/Test/assets/160697627/c975740d-1930-4814-9fe2-1f43faaa119c)
 
 Step 4: Now then, We will use Donut Chart to show the distribution of balance amounts by gender. Add the "Gender" field to the legend and the "Sum of Balance Amount" field to the values in the donut chart.
+![Donutchart](https://github.com/Vishal29PP/Test/assets/160697627/a1b4c3a2-7805-4e6c-8a04-2da2c8d7e3fb)
 
 Step 5: Now, We will use Stacked Bar Chart to display the total balance amounts by marital status.Add the "Marital Status" field to the Y-axis and the "Sum of Balance Amount" field to the X-axis in the stacked bar chart.
+![Stacked Bar chart](https://github.com/Vishal29PP/Test/assets/160697627/939eda8d-9fab-4c84-902c-67c852c9448a)
 
 Step 6: Now we will use Stacked Area Chart to visualize the total balance amounts by job classification and state. Add the "Job classification" field to the X-axis, the "Sum of Balance Amount" field to the Y-axis, and the "State" field to the legend in the stacked area chart.
+![Stacked Area Chart](https://github.com/Vishal29PP/Test/assets/160697627/510fc331-7cc1-49dd-b3dd-373f756644ef)
 
 Step 7: We will make a new "Age group" Column in which we will group the age numbers.
 Here is the grouped column.
