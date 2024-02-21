@@ -57,6 +57,8 @@ Here is the grouped column.
 
 Step 8: Use Clustered Column Chart to view the number of customers by age group. Add the "Age group" field to the X-axis and the "Count of Customer ID" field to the Y-axis in the clustered column chart.
 
+![Clustured column chart](https://github.com/Vishal29PP/Test/assets/160697627/89e0b085-5146-47f3-8d10-b346d8eba859)
+
 Step 9: Use the text box visual and insert the logo image and type the company name as the text.
 
 ![PowerBi capstone project (Banking Domain)_page-0001](https://github.com/Vishal29PP/Test/assets/160697627/dec88590-f80d-49ad-abcb-8c7d6f5f443c)
