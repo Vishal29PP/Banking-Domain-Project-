@@ -41,6 +41,9 @@ Step 5: Now, We will use Stacked Bar Chart to display the total balance amounts 
 Step 6: Now we will use Stacked Area Chart to visualize the total balance amounts by job classification and state. Add the "Job classification" field to the X-axis, the "Sum of Balance Amount" field to the Y-axis, and the "State" field to the legend in the stacked area chart.
 
 Step 7: We will make a new "Age group" Column in which we will group the age numbers.
+Here is the grouped column.
+
+![Age](https://github.com/Vishal29PP/Test/assets/160697627/e5b50359-48d6-4959-817c-2de2cbd5f2fb)
 
 Step 8: Use Clustered Column Chart to view the number of customers by age group. Add the "Age group" field to the X-axis and the "Count of Customer ID" field to the Y-axis in the clustered column chart.
 
