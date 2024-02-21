@@ -61,4 +61,7 @@ Step 8: Use Clustered Column Chart to view the number of customers by age group.
 
 Step 9: Use the text box visual and insert the logo image and type the company name as the text.
 
+### Snapshot of Dashboard (Power BI Services)
+
+
 ![PowerBi capstone project (Banking Domain)_page-0001](https://github.com/Vishal29PP/Test/assets/160697627/dec88590-f80d-49ad-abcb-8c7d6f5f443c)
